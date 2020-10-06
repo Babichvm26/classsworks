@@ -6,7 +6,7 @@ public class Main {
         double b1, b2;
         int d1, d2;
 //     k=10;  i=4;
-/*
+
    System.out.println("1 пример");
    for (i=10; i>=4; i--) {
        System.out.println(i);
@@ -20,7 +20,7 @@ public class Main {
         }
         System.out.println("");
         System.out.println("");
-*/
+
         System.out.println("3 пример");
         k = 1000;
         n1 = 11;
