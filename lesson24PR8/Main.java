@@ -13,7 +13,7 @@ public class Main {
 
     System.out.println("1 пример");
     for (i=1; i<=k; i++) {
-        str = ""; stP = "";
+        str = "";
         for (j = 1; j <= i; j++) {
             str = str + "#";
         }
