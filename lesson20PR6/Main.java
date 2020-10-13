@@ -7,7 +7,7 @@ public class Main {
         int i, n1, n2, a2;
         double b1, b2;
         double a1;
-/*
+
 // пример 3
 //
         System.out.println("3 пример");
@@ -81,7 +81,7 @@ public class Main {
             if (g) System.out.println(P);
             else g = true;
         }
-*/
+
 
         System.out.println("");
         System.out.println("");
