@@ -21,7 +21,7 @@ public class Calculator {
 
     public static Fraction multiply(Fraction f1, Fraction f2) {
         Fraction result = new Fraction();
-        result.numerator = f1.numerator * f2.denominator * f1.denominator * f2.numerator;
+        result.numerator = f1.numerator * f2.numerator;
         result.denominator = f1.denominator * f2.denominator;
         return result;
     }
