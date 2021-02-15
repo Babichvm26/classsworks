@@ -1,6 +1,6 @@
 package lesson93_1;
 
-public class Animal implements Comparable {
+ class Animal implements Comparable {
     String species;
     int weight;
     String name1;
